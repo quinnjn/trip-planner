@@ -69,7 +69,7 @@ optional arguments:
                         Limit the number of sentences in place summary.
 ```
 
-## Imorting to Google My Maps
+## Importing to Google My Maps
 
 The following blog post describes how the CSV files can be imported to Google My Maps.
 - [Programmatically organising your backpacking trip using Google My Maps](https://adl1995.github.io/programmatically-organising-your-backpacking-trip-using-google-my-maps.html)
